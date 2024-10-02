@@ -1,6 +1,8 @@
 # Signup Box Tutorial
 
-[Click here to get code work in progress](https://github.com/petryca/esme-signup-box)
+- [Tutorial repository](https://github.com/petryca/esme-signup-box)
+
+## CSS concepts and techniques to research and study:
 
 - Selectors
 - Universal selector
