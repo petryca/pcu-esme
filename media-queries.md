@@ -1,4 +1,4 @@
-# Media Quaries
+# Media Queries
 
 In CSS media queries, `min-width` and `max-width` are used to apply styles based on the width of the viewport or the container. Here's the difference between them:
 
